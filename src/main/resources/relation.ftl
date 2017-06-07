@@ -3,17 +3,17 @@
     {
       "templateName":"Dao.ftl",
       "fileName":"${entity+"Dao.java"}",
-      "exportPath":"src/main/java/com/andlinks/dao/"
+      "exportPath":"src/main/java/com/andlinks/xray/dao/"
     },
     {
       "templateName":"Service.ftl",
       "fileName":"${entity+"Service.java"}",
-      "exportPath":"src/main/java/com/andlinks/service/"
+      "exportPath":"src/main/java/com/andlinks/xray/service/"
     },
     {
       "templateName":"ServiceImpl.ftl",
       "fileName":"${entity+"ServiceImpl.java"}",
-      "exportPath":"src/main/java/com/andlinks/service/impl/"
+      "exportPath":"src/main/java/com/andlinks/xray/service/impl/"
     }
   ]
 }

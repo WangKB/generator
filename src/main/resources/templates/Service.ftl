@@ -1,6 +1,6 @@
-package com.andlinks.service;
+package com.andlinks.xray.service;
 
-import com.andlinks.entity.${entity}DO;
+import com.andlinks.xray.entity.${entity}DO;
 
 /**
  * Created by ${user} on ${now}.

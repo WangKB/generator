@@ -1,6 +1,6 @@
-package com.andlinks.dao;
+package com.andlinks.xray.dao;
 
-import com.andlinks.entity.${entity}DO;
+import com.andlinks.xray.entity.${entity}DO;
 
 /**
  * Created by ${user} on ${now}.

@@ -1,6 +1,6 @@
 {
-  "entity":"Permission",
-  "lowerCaseEntity":"permission",
+  "entity":"LocalAuth",
+  "lowerCaseEntity":"localAuth",
   "user":"王凯斌",
-  "now":"2017/04/28"
+  "now":"2017/06/06"
 }
