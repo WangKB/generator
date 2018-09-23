@@ -1,9 +1,10 @@
-package com.andlinks.xray.dao;
+package me.wangsheshan.exchange.dao;
 
-import com.andlinks.xray.entity.${entity}DO;
+import com.andlinks.foundation.dao.BaseDao;
+import me.wangsheshan.exchange.entity.${entity};
 
 /**
  * Created by ${user} on ${now}.
  */
-public interface ${entity}Dao extends BaseDao<${entity}DO>{
+public interface ${entity}Dao extends BaseDao<${entity}>{
 }
